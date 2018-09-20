@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+p {
+  display: inline;
+}
+.health {
+  color: aqua;
+}
+.bmi {
+  margin-bottom: 5px;
+}
+button {
+  margin-top: 22px;
+}
+.main_div {
+  text-align: center;
+  width: 100;
+  height: 400px;
+  background-color: #40c740;
+}
+.content_div {
+  color: white;
+  width: 90%;
+  height: 200px;
+  background-color: black;
+  margin: auto;
+}
+.start_button {
+  margin: 10px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
